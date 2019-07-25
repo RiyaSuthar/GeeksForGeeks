@@ -1,0 +1,2 @@
+Given a graph of V nodes represented in the form of adjacency matrix. 
+The task is to find the shortest distance of all the vertex's from the source vertex.
